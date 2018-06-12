@@ -1,0 +1,167 @@
+/* Universal */
+
+body {
+    background-image: url(./images/dust.png);
+}
+
+#header {
+    width: 100%;
+}
+
+.navbar-white {
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+    border-bottom: 2px solid #ccc;
+    margin-top: 8px;
+    z-index: 9;
+}
+
+#logo {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-name {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+    margin-left: 15%;
+}
+
+.nav {
+    position: relative;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10%;
+}
+
+
+.nav-link {
+    border-left: 1px solid #efefef;
+}
+
+a {
+    color: #777777;
+}
+
+footer {
+    background: #666;
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+}
+
+/* Portfolio */
+
+#main-container {
+    float: left;
+    max-width: 960px;
+    margin-left: 180px;
+    padding: 30px;
+    padding-top: 130px;
+    margin: 0 0 40;
+    width: 100%;
+}
+
+.jumbotron {
+    width: 960px;
+    height: 795px;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.lead {
+    color: #4aaaa5;
+    font-weight: 700;
+    font-size:30px;
+}
+
+img {
+    width: 230px;
+    height: 175px;
+    position: absolute;
+    z-index: 1; 
+}
+
+#happy-shades {
+    bottom: 7%;
+    left: 3%,
+}
+
+#happy-point {
+    bottom: 35%;
+    left: 3%;
+}
+
+#happy-keys {
+    bottom: 7%;
+    left: 34%;
+}
+
+#happy-computer {
+    bottom: 35%;
+    left: 34%;
+}
+
+#happy-buff {
+    left: 34%
+}
+
+.one {
+    bottom: 8%;
+    left: 3%;
+}
+
+.two {
+    bottom: 36%;
+    left: 3%;
+}
+
+.three {
+    bottom: 8%;
+    left: 34%;
+}
+
+.four {
+    bottom: 36%;
+    left: 34%;
+}
+
+.five {
+    left: 34%;
+    bottom: 63%;
+}
+
+.six {
+    left: 3%;
+    bottom: 63%;
+}
+
+.holder {
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 5px;
+    height: 52px;
+    width: 230px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    position: absolute;
+    z-index: 2;
+}
+
+
