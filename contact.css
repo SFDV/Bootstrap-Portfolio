@@ -65,7 +65,6 @@ footer {
     color: #4aaaa5;
     font-weight: 700;
     font-size:30px;
-    font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 #maincontainer {
@@ -86,6 +85,7 @@ footer {
 .btn {
     background-color: #4aaaa5;
     border: 1px solid #4aaaa5;
+    color: #fff;
 }
 
 
